@@ -1,0 +1,19 @@
+main {
+  padding: 2rem;
+}
+
+section.first {
+  padding: 1.5rem;
+}
+section.first p {
+  padding-top: 1rem;
+}
+
+section.second {
+  display: flex;
+  margin: 1rem;
+}
+
+section.second p {
+  padding: 1rem;
+}

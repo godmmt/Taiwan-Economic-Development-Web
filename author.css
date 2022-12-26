@@ -1,0 +1,27 @@
+main {
+  padding: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+section.left {
+  flex: 1 1 0px;
+}
+
+section.right {
+  flex: 3 1 0px;
+  padding: 1rem;
+}
+
+section.left img {
+  width: 200px;
+  border-radius: 50%;
+}
+
+h2 {
+  margin-bottom: 0.25rem;
+}
+
+p {
+  margin-bottom: 2rem;
+}
